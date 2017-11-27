@@ -2,3 +2,4 @@ notes/
 resources/
 stickers-website/
 *.tiff
+.DS_Store
